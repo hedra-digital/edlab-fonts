@@ -5,3 +5,7 @@ timesnewroman:
 	sudo apt install ttf-mscorefonts-installer
 libertine:
 	sudo apt-get install -y fonts-linuxlibertine
+microsoft:
+	sudo apt install ttf-mscorefonts-installer
+list:
+	fc-list
