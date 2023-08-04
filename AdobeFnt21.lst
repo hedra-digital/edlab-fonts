@@ -1,0 +1,205 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FT88-Gothique
+FamilyName:FT88
+StyleName:Gothique
+MenuName:FT88 Gothique
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FT88 Gothique
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FT88-Gothique.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:54272
+FileModTime:668385404
+NameArray:0,Mac,4,FT88 Gothique
+NameArray:0,Win,1,FT88 Gothique
+NameArray:0,Win,16,FT88
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/AdobeFnt21.lst
+FileLength:5143
+FileModTime:680128997
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FT88-Italic
+FamilyName:FT88
+StyleName:Italic
+MenuName:FT88 Italic
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FT88 Italic
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FT88-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66360
+FileModTime:668385404
+NameArray:0,Mac,4,FT88 Italic
+NameArray:0,Win,1,FT88 Italic
+NameArray:0,Win,16,FT88
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MrEavesSanOT-Reg
+FamilyName:Mr Eaves San OT
+StyleName:Reg
+MenuName:MrEavesSanOT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Mr Eaves San OT Reg
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/MrEavesSanOT-Reg.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:70468
+FileModTime:670373834
+NameArray:0,Mac,18,MrEavesSanOT
+NameArray:0,Mac,4,Mr Eaves San OT Reg
+NameArray:0,Win,1,MrEavesSanOT
+NameArray:0,Win,16,Mr Eaves San OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FT88-School
+FamilyName:FT88
+StyleName:School
+MenuName:FT88 School
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FT88 School
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FT88-School.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:64904
+FileModTime:668385404
+NameArray:0,Mac,4,FT88 School
+NameArray:0,Win,1,FT88 School
+NameArray:0,Win,16,FT88
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FT88-Regular
+FamilyName:FT88
+StyleName:Regular
+MenuName:FT88
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FT88 Regular
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FT88-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47148
+FileModTime:668385404
+NameArray:0,Mac,4,FT88 Regular
+NameArray:0,Win,1,FT88
+NameArray:0,Win,16,FT88
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FT88-Bold
+FamilyName:FT88
+StyleName:Bold
+MenuName:FT88 Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:FT88 Bold
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FT88-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:44276
+FileModTime:668385404
+NameArray:0,Mac,4,FT88 Bold
+NameArray:0,Win,1,FT88 Bold
+NameArray:0,Win,16,FT88
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FuturaNowText-Italic
+FamilyName:Futura Now Text
+StyleName:Italic
+MenuName:Futura Now Text
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Futura Now Text Italic
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FuturaNowTextItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:271436
+FileModTime:633759184
+NameArray:0,Mac,4,Futura Now Text Italic
+NameArray:0,Win,1,Futura Now Text
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FT88-Serif
+FamilyName:FT88
+StyleName:Serif
+MenuName:FT88 Serif
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FT88 Serif
+WritingScript:Roman
+OutlineFileName:/Users/wallacevmasuko/Desktop/Pasta Cadernos Rosa 6 – Tecnologia como gênero e outras fenomenologias encarnadas – Entrevista com Mckenzie Wark_miolo/Document fonts/FT88-Serif.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:47100
+FileModTime:668385404
+NameArray:0,Mac,4,FT88 Serif
+NameArray:0,Win,1,FT88 Serif
+NameArray:0,Win,16,FT88
+%EndFont
+
