@@ -13,7 +13,12 @@
 
 ## Para instalar novas fontes:
 
-`make context`
+```
+export OSFONTDIR=$HOME/.fonts:/usr/share/fonts
+mtxrun --generate
+mtxrun --script font --reload
+```
+Obs: não funciona colocar no `Makefile`
 
 ## Para checar se uma fonte está instalada no ConTeXt:
 
